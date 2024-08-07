@@ -1,0 +1,9 @@
+SheetConnection OR("D:\\@CPLEX\\ORData.xlsx");
+
+q from SheetRead(OR, "Demand");
+s from SheetRead(OR, "ServiceTime");
+l from SheetRead(OR, "LowerBound");
+u from SheetRead(OR, "UpperBound");
+dist from SheetRead(OR, "DistanceMatrix");
+t from SheetRead(OR, "TimeMatrix");
+w from SheetRead(OR, "Auxiliary");
