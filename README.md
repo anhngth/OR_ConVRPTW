@@ -2,6 +2,7 @@
 Recode the paper: A case study of consistent vehicle routing problem  with time windows by Hernán Lespaya and Karol Suchan
 [https://arxiv.org/abs/1912.05929
 ](url)
+
 DOI: [10.1111/itor.12885]
 
 Abstract: We develop a heuristic for the consistent vehicle routing problem with time windows (ConVRPTW), which is motivated by a real-world application at a food company’s distribution center. Besides standard VRPTW restrictions, ConVRPTW assigns each customer just one driver to fulfill his or her orders during the whole multiperiod planning horizon. For each driver and period, a route is sought to serve all their customers with positive demand.
