@@ -1,7 +1,5 @@
 # OR_ConVRPTW
-Recode the paper: A case study of consistent vehicle routing problem  with time windows by Hernán Lespaya and Karol Suchan
-[https://arxiv.org/abs/1912.05929
-](url)
+Recode the paper: A case study of consistent vehicle routing problem  with time windows by Hernán Lespaya and Karol Suchan https://arxiv.org/abs/1912.05929
 
 DOI: [10.1111/itor.12885]
 
